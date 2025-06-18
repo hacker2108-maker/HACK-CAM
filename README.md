@@ -31,7 +31,7 @@ Here's an improved version of your README.md with better formatting, structure, 
 apt update && apt upgrade -y
 apt install git php curl wget -y
 git clone https://github.com/hacker2108-maker/HACK-CAM.git
-cd HACK-CAMERA
+cd HACK-CAM
 chmod +x hack-cam.sh  
 chmod +x setup
 ./setup
