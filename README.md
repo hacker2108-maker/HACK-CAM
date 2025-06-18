@@ -32,10 +32,10 @@ apt update && apt upgrade -y
 apt install git php curl wget -y
 git clone https://github.com/hacker2108-maker/HACK-CAM.git
 cd HACK-CAMERA
-chmod +x hack_cam.sh  
+chmod +x hack-cam.sh  
 chmod +x setup
 ./setup
-./hack_cam.sh
+./hack-cam.sh
 ```
 
 ### Additional for Termux:
