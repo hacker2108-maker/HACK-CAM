@@ -340,7 +340,7 @@ clear
 echo -e "$logo"
 sleep 1
 echo -e "${ask}Choose an option:
-${red}[${white}1${red}] ${cyan}Jio Recharge
+${red}[${white}1${red}] ${cyan}Money Transfer
 ${red}[${white}2${red}] ${cyan}Festival
 ${red}[${white}3${red}] ${cyan}Live Youtube
 ${red}[${white}4${red}] ${cyan}Online Meeting
